@@ -35,7 +35,7 @@ caso1.datos.columns
 
 p = figure(plot_width=900, plot_height=500,x_axis_type='datetime',
            toolbar_location="above")
-#         YYYY-MM-DD
+formato de inicio y fin   YYYY-MM-DD
 inicio = '2017-04-06'
 fin    = '2017-04-07'
 
@@ -51,7 +51,7 @@ show(p)
 ## Authors
 
 * **Guillermo Barrios** - *Initial work* - [GEE-UNAM](https://github.com/Altamar)
-* **Maximiliano Valdes** - *Espiritual leaership* - [GEE-UNAM](https://github.com/Altamar)
+* **Maximiliano Valdes** - *Espiritual leadership* - [GEE-UNAM](https://github.com/Altamar)
 
 ## License
 
