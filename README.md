@@ -24,7 +24,6 @@ Bokeh
 from modulos import Eplus as ep
 from bokeh.plotting import figure, output_file, show
 from bokeh.io import output_notebook
-# from bokeh.models import Range1d, HoverTool
 output_notebook()
 
 
@@ -51,7 +50,7 @@ show(p)
 ## Authors
 
 * **Guillermo Barrios** - *Initial work* - [GEE-UNAM](https://github.com/Altamar)
-* **Maximiliano Valdes ** - *Espiritual leadership* - [GEE-UNAM](https://github.com/Altamar)
+* **Maximiliano Valdez ** - *Espiritual leadership* - [GEE-UNAM](https://github.com/Altamar)
 
 ## License
 
